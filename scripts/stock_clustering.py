@@ -28,13 +28,13 @@ df_data = data[['returnOnEquity', 'returnOnAssets', 'dividendYield', 'symbol']].
 
 ###################################################################################
 # 3. Create sector data frame and  Set index - symbol;
-# Set index of our mmetrics data frame and Drop Null Data
+# Set index of our metrics data frame and Drop Null Data
 ###################################################################################
 sector_df = data[['symbol', 'sector']].copy()
 sector_df.set_index('symbol', inplace=True)
 
 # Remove any zeros
-df_data = df_data[df_data[['returnOnEquity', 'returnOnAssets', 'dividendYield','symbol']] != 0]
+df_data = df_data[df_data[['returnOnEquity', 'returnOnAssets', 'dividendYield', 'symbol']] != 0]
 print(df_data.shape)
 
 print('Drop NaN')
@@ -76,9 +76,9 @@ z = list(df.iloc[:, 2])
 
 # Set axes labels
 column_names = df.columns
-ax.set_xlabel(column_names[0] +'%')
-ax.set_ylabel(column_names[1]+ '%')
-ax.set_zlabel(column_names[2]+ '%')
+ax.set_xlabel(column_names[0] + '%')
+ax.set_ylabel(column_names[1] + '%')
+ax.set_zlabel(column_names[2] + '%')
 ax.scatter(x, y, z, c='green', marker='v')
 ax.text2D(0.05, 0.95, "Initial Data Plot", transform=ax.transAxes)
 plt.show()
