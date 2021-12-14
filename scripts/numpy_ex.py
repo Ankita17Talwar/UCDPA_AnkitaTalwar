@@ -25,8 +25,8 @@ def validate_matrix_mul(m1, m2):
     """
     Validate if input matrices can be multiplied. i.e c1 == r2
 
-    :param m1:
-    :param m2:
+    :param m1: Mandatory: Matrix 1
+    :param m2: Mandatory : Matrix 2
     :return: valid_flag = 1, 0
     """
     m1_row = m1.shape[0]
@@ -56,8 +56,8 @@ def validate_matrix_mul(m1, m2):
 def multiplication(m1, m2):
     """
 
-    :param m1:
-    :param m2:
+    :param m1: Mandatory: Matrix 1
+    :param m2: Mandatory: Matrix 2
     :return:
     """
     if validate_matrix_mul(m1, m2):
@@ -70,8 +70,8 @@ def multiplication(m1, m2):
 def add(m1, m2):
     """
 
-    :param m1:
-    :param m2:
+    :param m1: Mandatory: Matrix 1
+    :param m2: Mandatory: Matrix 2
     :return:
     """
     try:
@@ -102,7 +102,7 @@ if __name__ == '__main__':
     # Two matrix are compatible when they are equal ,or when one of them is 1 (ex 3 and 4 above)
 
     # 4 Load Data from text file
-    # Load output file  containg ESG score and price data of Stock_ESG script
+    # Load output file  contains ESG score and price data of Stock_ESG script
     ## file = '../dataset/Stock_Data.csv'
     file = '../output_files/out_esg_info/Transformed_data.csv'
 
