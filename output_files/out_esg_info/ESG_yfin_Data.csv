@@ -1,0 +1,63 @@
+,palmOil,controversialWeapons,gambling,socialScore,nuclear,furLeather,alcoholic,gmo,catholic,socialPercentile,peerCount,governanceScore,environmentPercentile,animalTesting,tobacco,totalEsg,highestControversy,esgPerformance,coal,pesticides,adult,percentile,peerGroup,smallArms,environmentScore,governancePercentile,militaryContract,symbol
+Value,False,False,False,3.68,False,False,False,False,False,,15,6.5,,False,False,13.71,4,UNDER_PERF,False,False,False,6.53,Transportation Infrastructure,False,3.54,,False,ADANIPORTS.ns
+Value,False,False,False,3.85,False,False,False,False,False,0,14,7.28,0,False,False,21.78,2,,False,False,False,28.74,Construction Materials,False,10.64,0,False,AMBUJACEM.ns
+Value,False,False,False,9.42,False,False,False,False,False,,73,9.28,,False,False,30.39,1,OUT_PERF,False,False,False,60.92,Chemicals,False,11.69,,False,ASIANPAINT.ns
+Value,False,False,False,19.37,False,False,False,False,True,,83,13.68,,True,False,35.76,3,OUT_PERF,False,False,False,77.9,Pharmaceuticals,False,2.71,,False,AUROPHARMA.ns
+Value,False,False,False,13.77,False,False,False,False,False,0,165,13.25,0,False,False,29.15,2,,False,False,False,56.54,Banks,False,2.13,0,False,AXISBANK.ns
+Value,False,False,False,3.96,False,False,False,False,False,0,37,7.47,0,False,False,15.24,1,LAG_PERF,False,False,False,9.53,Automobiles,False,3.81,0,False,BAJAJ-AUTO.ns
+Value,False,False,False,11.75,False,False,False,False,False,,91,15.1,,False,False,29.5,1,AVG_PERF,False,False,False,57.8,Insurance,False,2.64,,False,BAJAJFINSV.ns
+Value,False,False,False,0,False,False,False,False,False,0,17,0,0,False,False,35.96,4,LEAD_PERF,False,False,False,78.49,Electrical Equipment,False,0,0,True,BHEL.ns
+Value,False,False,False,8.7,False,False,False,False,False,,37,7.17,,False,False,36.35,2,OUT_PERF,False,False,False,79.51,Refiners & Pipelines,False,20.48,,False,BPCL.ns
+Value,False,False,False,13.56,False,False,False,False,False,0,66,8.89,0,False,False,26.51,3,,False,False,False,46.75,Telecommunication Services,False,4.06,0,False,BHARTIARTL.ns
+Value,False,False,False,0,False,False,False,False,False,0,24,0,0,False,False,13.21,2,LAG_PERF,False,False,False,5.52,Auto Components,False,0,0,False,BOSCHLTD.ns
+Value,False,False,False,,False,False,False,False,True,,83,,,True,False,40.92,3,LEAD_PERF,False,False,False,87.96,Pharmaceuticals,False,,,False,CADILAHC.ns
+Value,False,False,False,22.25,False,False,False,False,True,,83,13.11,,True,False,37.46,2,OUT_PERF,False,False,False,82.04,Pharmaceuticals,False,2.1,,False,CIPLA.ns
+Value,False,False,False,12.06,False,False,False,False,False,,71,7.1,,False,False,35.99,3,OUT_PERF,True,False,False,76.92,Oil & Gas Producers,False,16.84,,False,COALINDIA.ns
+Value,False,False,False,8.49,False,False,False,False,False,0,27,8.41,0,True,False,29.33,1,,False,False,False,57.1,Household Products,False,12.43,0,False,DABUR.ns
+Value,False,False,False,20.82,False,False,False,False,True,0,83,13.78,0,True,False,36.6,3,LEAD_PERF,False,False,False,80.26,Pharmaceuticals,False,2.01,0,False,DRREDDY.ns
+Value,False,False,False,5.48,False,False,False,False,False,,37,6.88,,False,False,16.17,2,UNDER_PERF,False,False,False,11.75,Automobiles,False,3.82,,False,EICHERMOT.ns
+Value,False,False,False,10.54,False,False,False,False,False,0,103,8.28,0,False,False,28.68,3,,False,False,False,54.66,Utilities,False,9.86,0,False,GAIL.ns
+Value,False,False,False,7.27,False,False,False,False,False,0,27,8.39,0,False,False,26.57,1,,False,False,False,46.97,Household Products,False,10.91,0,False,GODREJCP.ns
+Value,False,False,False,11.21,False,False,False,False,False,0,35,12.77,0,False,False,42.47,2,,False,False,False,90.31,Industrial Conglomerates,False,18.49,0,False,GRASIM.ns
+Value,False,False,False,9.2,False,False,False,False,False,0,99,6.13,0,False,False,16.46,1,LAG_PERF,False,False,False,12.49,Software & Services,False,1.13,0,False,HCLTECH.ns
+Value,False,False,False,12.9,False,False,False,False,False,,165,12.96,,False,False,28.24,2,AVG_PERF,False,False,False,52.96,Banks,False,2.38,,False,HDFCBANK.ns
+Value,False,False,False,3.39,False,False,False,False,False,0,37,6.73,0,False,False,12.42,1,LAG_PERF,False,False,False,4.29,Automobiles,False,2.3,0,False,HEROMOTOCO.ns
+Value,False,False,False,10.36,False,False,False,False,False,,26,10.42,,False,False,34.16,3,OUT_PERF,False,False,False,73.48,Diversified Metals,False,13.37,,False,HINDALCO.ns
+Value,False,False,False,10.18,False,False,False,False,False,,37,7.22,,False,False,39.49,2,OUT_PERF,False,False,False,85.72,Refiners & Pipelines,False,22.08,,False,HINDPETRO.ns
+Value,False,False,False,8.7,False,False,False,False,False,,27,6.62,,False,False,25.98,2,AVG_PERF,False,False,False,44.8,Household Products,False,10.67,,False,HINDUNILVR.ns
+Value,False,False,False,7.29,False,False,False,False,False,0,175,9.45,0,False,False,18.99,2,LAG_PERF,False,False,False,18.43,Banks,False,2.25,0,False,HDFC.ns
+Value,False,False,False,17.94,False,False,False,False,False,,165,15.64,,False,False,35.94,3,OUT_PERF,False,False,False,78.44,Banks,False,2.35,,False,ICICIBANK.ns
+Value,False,False,False,12.28,False,False,False,False,False,,92,8.01,,False,True,27.43,2,AVG_PERF,False,False,False,49.96,Food Products,False,7.15,,False,ITC.ns
+Value,False,False,False,,False,False,False,False,False,,165,,,False,False,26.55,1,AVG_PERF,False,False,False,46.91,Banks,False,,,False,IBULHSGFIN.ns
+Value,False,False,False,9.53,False,False,False,False,False,0,37,7.18,0,False,False,34.8,2,LEAD_PERF,False,False,False,75.32,Refiners & Pipelines,False,18.1,0,False,IOC.ns
+Value,False,False,False,8.97,False,False,False,False,False,0,66,7.13,0,False,False,22.34,0,,False,False,False,30.84,Telecommunication Services,False,6.24,0,False,INDUSTOWER.ns
+Value,False,False,False,7.69,False,False,False,False,False,0,103,6.52,0,False,False,15.28,2,LAG_PERF,False,False,False,8.8,Software & Services,False,1.07,0,False,INFY.ns
+Value,False,False,False,11.46,False,False,False,False,False,0,23,10.7,0,False,False,36.68,2,LEAD_PERF,False,False,False,80.47,Steel,False,14.52,0,False,JSWSTEEL.ns
+Value,False,False,False,12.94,False,False,False,False,False,0,165,11.43,0,False,False,26.61,2,,False,False,False,47.07,Banks,False,2.24,0,False,KOTAKBANK.ns
+Value,False,True,False,13.86,False,False,False,False,True,0,24,15.91,0,False,False,34.37,2,LEAD_PERF,False,False,False,74.16,Construction & Engineering,False,4.6,0,True,LT.ns
+Value,False,False,False,23.1,False,False,False,False,True,0,83,15.71,0,True,False,41.18,3,,False,False,False,88.41,Pharmaceuticals,False,2.36,0,False,LUPIN.ns
+Value,False,False,False,13.57,False,False,False,False,False,0,37,6.24,0,False,False,27.94,2,,False,False,False,52.05,Automobiles,False,8.13,0,True,M&M.ns
+Value,False,False,False,15.43,False,False,False,False,False,0,92,6.51,0,False,False,31.74,1,LEAD_PERF,False,False,False,65.59,Food Products,False,9.8,0,False,MARICO.ns
+Value,False,False,False,10.95,False,False,False,False,False,0,37,9.3,0,False,False,26.89,4,,False,False,False,48,Automobiles,False,6.63,0,False,MARUTI.ns
+Value,False,False,False,14.67,False,False,False,False,False,0,103,8.55,0,False,False,40.98,4,,True,False,False,88.06,Utilities,False,17.75,0,False,NTPC.ns
+Value,False,False,False,10.28,False,False,False,False,False,0,92,5.77,0,True,False,27.02,3,,False,False,False,48.44,Food Products,False,10.97,0,False,NESTLEIND.ns
+Value,False,False,False,17.45,False,False,False,False,False,0,64,13.38,0,False,False,53.39,5,,False,False,False,98.37,Oil & Gas Producers,False,22.56,0,False,ONGC.ns
+Value,False,False,False,0,False,False,False,False,False,0,85,0,0,False,False,24.82,2,,False,False,False,40.16,Diversified Financials,False,0,0,False,PFC.ns
+Value,False,False,False,10.1,False,False,False,False,True,0,37,6.27,0,False,False,36.92,2,LEAD_PERF,False,False,False,80.88,Refiners & Pipelines,False,20.55,0,False,RELIANCE.ns
+Value,False,False,False,4.19,False,False,False,False,False,0,14,9.13,0,False,False,28.32,2,,True,False,False,53.23,Construction Materials,False,15,0,False,SHREECEM.ns
+Value,False,False,False,15.53,False,False,False,False,False,,35,9.94,,True,False,40.81,2,LEAD_PERF,False,False,False,87.79,Industrial Conglomerates,False,15.34,,False,SIEMENS.ns
+Value,False,False,False,13.09,False,False,False,False,False,,175,14.54,,False,False,29.96,2,AVG_PERF,False,False,False,57.7,Banks,False,2.33,,False,SBIN.ns
+Value,False,False,False,19.69,False,False,False,False,True,0,83,14.06,0,True,False,36.77,3,LEAD_PERF,False,False,False,80.6,Pharmaceuticals,False,3.02,0,False,SUNPHARMA.ns
+Value,False,False,False,6.58,False,False,False,False,False,0,99,6.76,0,False,False,14.12,2,LAG_PERF,False,False,False,7.36,Software & Services,False,0.79,0,False,TCS.ns
+Value,False,False,False,14.01,False,False,False,False,False,0,37,7.46,0,False,False,30.05,2,LEAD_PERF,False,False,False,59.79,Automobiles,False,8.57,0,True,TATAMOTORS.ns
+Value,False,False,False,14.18,False,False,False,False,True,0,23,8.84,0,False,False,39.34,3,LEAD_PERF,True,False,False,85.39,Steel,False,16.32,0,False,TATASTEEL.ns
+Value,False,False,False,6.81,False,False,False,False,False,0,99,5.84,0,False,False,13.12,1,LAG_PERF,False,False,False,5.33,Software & Services,False,0.47,0,False,TECHM.ns
+Value,False,False,False,7.14,False,False,False,False,False,0,18,6.26,0,False,False,15.04,2,LAG_PERF,False,False,False,9.15,Textiles & Apparel,False,1.64,0,False,TITAN.ns
+Value,False,False,False,8.8,False,False,False,False,False,0,73,6.78,0,True,False,26.68,2,,False,True,False,47.36,Chemicals,False,11.11,0,False,UPL.ns
+Value,False,False,False,5.04,False,False,False,False,False,,14,10.6,,False,False,34.1,2,OUT_PERF,False,False,False,73.25,Construction Materials,False,18.46,,False,ULTRACEMCO.ns
+Value,False,False,False,8.85,False,False,True,False,False,,92,6.33,,False,False,23.78,3,AVG_PERF,False,False,False,36.12,Food Products,False,8.6,,False,MCDOWELL-N.ns
+Value,False,False,False,15.8,False,False,False,False,False,0,26,7.59,0,False,False,44.09,4,,True,False,False,92.54,Diversified Metals,False,20.69,0,False,VEDL.ns
+Value,False,False,False,14.46,False,False,False,False,False,0,66,8.98,0,False,False,31.07,3,LEAD_PERF,False,False,False,63.37,Telecommunication Services,False,7.64,0,False,IDEA.ns
+Value,False,False,False,6.86,False,False,False,False,False,0,99,5.48,0,False,False,13.28,2,LAG_PERF,False,False,False,5.71,Software & Services,False,0.95,0,False,WIPRO.ns
+Value,False,False,False,12.9,False,False,False,False,False,,165,18.4,,False,False,32.87,4,OUT_PERF,False,False,False,69.42,Banks,False,1.56,,False,YESBANK.ns
+Value,False,False,False,8.33,False,False,False,False,False,0,36,7.77,0,False,False,16.2,2,LAG_PERF,False,False,False,11.82,Media,False,0.09,0,False,ZEEL.ns

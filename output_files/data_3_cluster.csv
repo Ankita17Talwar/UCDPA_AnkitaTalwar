@@ -1,0 +1,225 @@
+symbol,returnOnEquity,returnOnAssets,dividendYield,cluster,sector
+AIAENG.NS,13.78,7.68,0.48,0,Industrials
+AARTIIND.NS,15.64,7.25,0.33,0,Basic Materials
+ABBOTINDIA.NS,30.73,15.88,0.63,2,Healthcare
+ADANIENT.NS,5.5,2.65,0.06,0,Energy
+ADANIPORTS.NS,17.59,5.72,0.68,0,Industrials
+ADVENZYMES.NS,14.79,11.42,0.22,0,Basic Materials
+AEGISCHEM.NS,15.57,7.92,0.85,0,Energy
+AJANTPHARM.NS,22.5,14.09,0.46,2,Healthcare
+ALEMBICLTD.NS,14.87,0.28,0.16,0,Healthcare
+APLLTD.NS,17.62,8.51,1.73,0,Healthcare
+ALKYLAMINE.NS,40.51,24.56,0.23,2,Basic Materials
+ANGELBRKG.NS,34.61,8.51,3.72,2,Financial Services
+ANURAS.NS,9.73,6.0,0.06,0,Basic Materials
+APOLLOHOSP.NS,24.41,7.49,0.05,0,Healthcare
+ASHOKLEY.NS,0.93,2.84,0.5,0,Industrials
+ASIANPAINT.NS,27.26,13.38,0.57,2,Basic Materials
+ASTRAL.NS,23.75,13.3,0.08,2,Industrials
+ATUL.NS,17.27,10.09,0.23,0,Basic Materials
+AUROPHARMA.NS,24.95,7.94,0.58,0,Healthcare
+AVANTIFEED.NS,13.83,7.34,1.19,0,Consumer Defensive
+BASF.NS,27.33,10.89,0.13,2,Basic Materials
+BAJFINANCE.NS,13.58,2.84,0.14,0,Financial Services
+BAJAJFINSV.NS,12.47,5.41,0.02,0,Financial Services
+BAJAJHLDNG.NS,9.31,0.47,1.03,0,Financial Services
+BALKRISIND.NS,23.87,12.19,0.72,2,Consumer Cyclical
+BALRAMCHIN.NS,17.0,9.93,0.76,0,Consumer Defensive
+BANDHANBNK.NS,-12.15,-1.74,0.35,0,Financial Services
+BATAINDIA.NS,-4.89,-1.78,0.24,0,Consumer Cyclical
+BAYERCROP.NS,15.79,9.44,0.47,0,Basic Materials
+BDL.NS,12.76,3.63,1.78,0,Industrials
+BEL.NS,21.24,6.81,2.61,0,Industrials
+BHARATFORG.NS,-2.37,1.04,0.27,0,Consumer Cyclical
+BPCL.NS,40.88,5.9,10.09,1,Energy
+BHARATRAS.NS,22.66,14.16,0.01,2,Basic Materials
+BLUEDART.NS,56.59,12.06,0.27,2,Industrials
+BBTC.NS,17.66,11.14,0.12,0,Consumer Defensive
+BRIGADE.NS,-3.89,1.48,0.36,0,Real Estate
+BRITANNIA.NS,69.66,17.44,2.11,2,Consumer Defensive
+CCL.NS,18.08,9.54,1.16,0,Consumer Defensive
+CESC.NS,13.6,4.24,6.09,1,Utilities
+CADILAHC.NS,15.4,6.71,0.61,0,Healthcare
+CAPLIPOINT.NS,23.36,14.19,0.22,2,Healthcare
+CASTROLIND.NS,55.96,27.82,4.33,2,Basic Materials
+CDSL.NS,28.6,19.89,0.62,2,Financial Services
+CENTURYTEX.NS,2.43,1.28,0.13,0,Basic Materials
+CHOLAFIN.NS,16.35,2.2,0.42,0,Financial Services
+CIPLA.NS,13.96,8.79,0.54,0,Healthcare
+COALINDIA.NS,35.2,6.48,6.24,1,Energy
+COCHINSHIP.NS,15.7,5.89,7.57,1,Industrials
+COFORGE.NS,23.4,12.12,0.71,2,Technology
+COLPAL.NS,64.49,29.85,2.65,2,Consumer Defensive
+CAMS.NS,48.38,23.76,1.06,2,Technology
+CONCOR.NS,7.26,4.53,0.73,0,Industrials
+CUMMINSIND.NS,14.03,7.37,1.92,0,Industrials
+DBL.NS,-1.24,4.95,0.18,0,Industrials
+DIVISLAB.NS,23.41,16.71,0.41,2,Healthcare
+DRREDDY.NS,10.09,7.4,0.52,0,Healthcare
+EICHERMOT.NS,15.27,7.41,0.7,0,Consumer Cyclical
+ELGIEQUIP.NS,16.63,5.67,0.29,0,Industrials
+EQUITAS.NS,12.19,1.66,3.31,0,Financial Services
+ERIS.NS,24.72,14.3,1.58,2,Healthcare
+ESCORTS.NS,18.48,9.6,0.27,0,Industrials
+EXIDEIND.NS,10.82,7.78,2.76,0,Consumer Cyclical
+FEDERALBNK.NS,10.56,0.89,0.78,0,Financial Services
+FINEORG.NS,17.82,10.6,0.21,0,Basic Materials
+FINCABLES.NS,14.38,5.68,1.11,0,Industrials
+FSL.NS,14.91,9.3,3.46,0,Technology
+GMMPFAUDLR.NS,7.99,6.97,0.08,0,Industrials
+GALAXYSURF.NS,21.68,10.57,0.24,0,Basic Materials
+GLAXO.NS,37.84,15.84,1.79,2,Healthcare
+GODFRYPHLP.NS,17.21,8.02,2.46,0,Consumer Defensive
+GODREJAGRO.NS,14.44,5.5,1.16,0,Consumer Defensive
+GRANULES.NS,22.26,10.14,0.46,0,Healthcare
+GESHIP.NS,6.04,3.38,2.9,0,Industrials
+GRINDWELL.NS,21.5,12.21,0.59,0,Industrials
+GUJALKALI.NS,3.91,2.33,1.33,0,Basic Materials
+GUJGASLTD.NS,33.15,14.4,0.17,2,Utilities
+GNFC.NS,12.26,6.88,2.27,0,Basic Materials
+GPPL.NS,9.81,7.04,4.53,1,Industrials
+GSFC.NS,6.84,3.68,1.91,0,Basic Materials
+GSPL.NS,29.5,14.34,0.65,2,Utilities
+HEG.NS,4.77,2.04,0.17,0,Industrials
+HCLTECH.NS,21.58,11.63,3.42,2,Technology
+HDFCAMC.NS,31.01,24.35,1.17,2,Financial Services
+HDFCBANK.NS,16.01,1.92,0.43,0,Financial Services
+HDFCLIFE.NS,14.42,0.57,0.3,0,Financial Services
+HFCL.NS,18.16,8.66,0.21,0,Technology
+HAPPSTMNDS.NS,30.2,14.4,0.25,2,Technology
+HATSUN.NS,25.58,10.05,0.65,2,Consumer Defensive
+HAVELLS.NS,23.3,10.96,0.51,0,Industrials
+HEROMOTOCO.NS,18.88,9.66,3.68,1,Consumer Cyclical
+HIKAL.NS,15.22,8.07,0.22,0,Healthcare
+HINDALCO.NS,16.26,5.88,0.27,0,Basic Materials
+HGS.NS,17.61,6.92,0.99,0,Industrials
+HAL.NS,22.6,3.92,2.73,0,Industrials
+HINDPETRO.NS,25.64,5.06,7.05,1,Energy
+HINDUNILVR.NS,17.74,10.08,2.29,0,Consumer Defensive
+HONAUT.NS,17.21,8.19,0.22,0,Industrials
+ICICIBANK.NS,13.9,1.48,0.29,0,Financial Services
+ICICIGI.NS,15.55,2.55,0.54,0,Financial Services
+ICICIPRULI.NS,7.4,0.25,0.34,0,Financial Services
+ISEC.NS,71.26,14.14,3.09,2,Financial Services
+IOLCP.NS,23.6,14.82,1.3,2,Healthcare
+ITC.NS,24.01,14.8,9.04,1,Consumer Defensive
+INDIACEM.NS,3.69,2.97,0.3,0,Basic Materials
+IBULHSGFIN.NS,7.36,1.29,3.51,0,Financial Services
+INDIAMART.NS,28.33,10.71,0.21,2,Communication Services
+IEX.NS,45.9,20.88,0.67,2,Financial Services
+INDHOTEL.NS,-16.92,-3.58,0.29,0,Consumer Cyclical
+IRFC.NS,15.67,1.58,6.31,1,Financial Services
+INDOCO.NS,16.93,9.55,0.32,0,Healthcare
+IGL.NS,20.06,8.98,0.54,0,Utilities
+INFIBEAM.NS,2.6,1.4,0.11,0,Technology
+NAUKRI.NS,36.43,3.0,0.15,2,Communication Services
+INFY.NS,29.82,15.82,1.79,2,Technology
+IPCALAB.NS,20.32,11.18,0.52,0,Healthcare
+JBCHEPHARM.NS,26.14,14.35,1.03,2,Healthcare
+JKCEMENT.NS,21.37,8.67,0.46,0,Basic Materials
+JMFINANCIL.NS,10.22,4.46,0.72,0,Financial Services
+JAMNAAUTO.NS,13.31,7.98,0.54,0,Consumer Cyclical
+JINDALSAW.NS,8.14,4.27,1.96,0,Basic Materials
+JUBLFOOD.NS,29.27,10.9,0.16,2,Consumer Cyclical
+JUBLINGREA.NS,5.65,3.61,0.05,0,Healthcare
+KPRMILL.NS,24.44,14.64,0.28,2,Consumer Cyclical
+KALPATPOWR.NS,17.27,4.38,2.54,0,Industrials
+KANSAINER.NS,13.37,8.14,0.51,0,Basic Materials
+KARURVYSYA.NS,5.9,0.56,1.11,0,Financial Services
+KSCL.NS,28.24,9.74,1.09,2,Consumer Defensive
+LTTS.NS,22.94,11.98,0.58,2,Technology
+LICHSGFIN.NS,7.07,0.67,2.03,0,Financial Services
+LAXMIMACH.NS,5.39,2.3,0.11,0,Industrials
+LTI.NS,29.37,15.02,0.71,2,Technology
+LAURUSLABS.NS,39.11,16.69,0.44,2,Healthcare
+LINDEINDIA.NS,19.44,5.69,0.13,0,Basic Materials
+MRF.NS,9.19,4.76,0.13,0,Consumer Cyclical
+MGL.NS,26.24,14.06,2.52,2,Utilities
+M&MFIN.NS,-3.03,-0.56,0.49,0,Financial Services
+M&M.NS,7.53,4.18,1.11,0,Consumer Cyclical
+MAHLOG.NS,8.84,3.07,0.38,0,Industrials
+MANAPPURAM.NS,24.28,5.28,1.68,0,Financial Services
+MARICO.NS,31.7,15.24,1.43,2,Consumer Defensive
+MASTEK.NS,28.2,11.18,0.56,2,Technology
+MAZDOCK.NS,18.73,0.56,1.33,0,Industrials
+METROPOLIS.NS,34.69,20.13,0.24,2,Healthcare
+MINDTREE.NS,33.19,16.82,0.41,2,Technology
+MINDACORP.NS,14.05,5.2,0.52,0,Consumer Cyclical
+MINDAIND.NS,15.06,6.42,0.14,0,Consumer Cyclical
+MIDHANI.NS,17.76,5.96,1.3,0,Basic Materials
+MOTILALOFS.NS,35.73,11.6,1.15,2,Financial Services
+MPHASIS.NS,22.28,10.78,1.26,0,Technology
+MCX.NS,10.16,5.13,1.71,0,Financial Services
+MUTHOOTFIN.NS,27.48,6.18,1.36,0,Financial Services
+NATCOPHARM.NS,6.18,2.64,0.7,0,Healthcare
+NBCC.NS,16.76,0.84,0.29,0,Industrials
+NESCO.NS,11.53,7.66,0.5,0,Industrials
+NLCINDIA.NS,8.77,3.64,1.8,0,Utilities
+NTPC.NS,12.09,3.36,4.82,1,Utilities
+NAVINFLUOR.NS,15.58,9.52,0.28,0,Basic Materials
+NESTLEIND.NS,97.92,22.44,1.57,2,Consumer Defensive
+NAM-INDIA.NS,25.33,18.9,2.57,2,Financial Services
+ONGC.NS,9.13,2.86,5.79,1,Energy
+OFSS.NS,30.87,20.64,4.53,1,Technology
+PIIND.NS,14.74,7.39,0.17,0,Basic Materials
+PNCINFRA.NS,19.17,7.58,0.15,0,Industrials
+PETRONET.NS,25.64,12.89,8.35,1,Energy
+PFIZER.NS,24.75,12.95,0.61,2,Healthcare
+PHILIPCARB.NS,23.76,10.02,3.11,2,Basic Materials
+PHOENIXLTD.NS,2.48,2.1,0.12,0,Real Estate
+PIDILITIND.NS,24.36,13.95,0.39,2,Basic Materials
+POLYMED.NS,19.81,9.72,0.24,0,Healthcare
+POLYPLEX.NS,15.96,9.14,8.86,1,Basic Materials
+PRAJIND.NS,10.65,4.11,0.67,0,Industrials
+PRESTIGE.NS,25.28,2.73,0.34,0,Real Estate
+QUESS.NS,3.08,2.75,1.7,0,Industrials
+RITES.NS,18.6,6.71,6.92,1,Industrials
+RAIN.NS,16.08,4.66,0.44,0,Basic Materials
+RAJESHEXPO.NS,9.61,3.99,0.13,0,Consumer Cyclical
+RALLIS.NS,12.0,5.34,1.22,0,Basic Materials
+RATNAMANI.NS,14.93,8.31,0.69,0,Basic Materials
+ROSSARI.NS,16.87,8.54,0.04,0,Basic Materials
+ROUTE.NS,23.57,10.91,0.11,0,Communication Services
+SBILIFE.NS,12.01,0.38,0.21,0,Financial Services
+SJVN.NS,13.4,5.36,8.47,1,Utilities
+SKFINDIA.NS,28.49,16.2,0.38,2,Industrials
+SRF.NS,22.85,9.9,0.3,0,Basic Materials
+SCHAEFFLER.NS,16.91,9.94,0.55,0,Industrials
+SHARDACROP.NS,15.19,5.91,1.16,0,Basic Materials
+SHILPAMED.NS,2.49,1.39,0.19,0,Healthcare
+SCI.NS,7.5,2.58,0.17,0,Industrials
+SHREECEM.NS,17.24,9.35,0.21,0,Basic Materials
+SHRIRAMCIT.NS,13.25,3.12,1.53,0,Financial Services
+SIEMENS.NS,10.58,4.6,0.34,0,Industrials
+SOBHA.NS,4.07,3.99,0.41,0,Real Estate
+SBIN.NS,10.43,0.64,0.8,0,Financial Services
+SUNTV.NS,23.85,14.42,4.6,1,Communication Services
+SUNDRMFAST.NS,16.63,8.1,0.62,0,Consumer Cyclical
+SUPRAJIT.NS,21.26,9.22,0.42,0,Consumer Cyclical
+SUPREMEIND.NS,39.87,19.35,1.04,2,Industrials
+TCIEXP.NS,31.47,20.13,0.27,2,Industrials
+TTKPRESTIG.NS,21.01,11.41,0.8,0,Consumer Cyclical
+TVSMOTOR.NS,15.54,5.21,0.57,0,Consumer Cyclical
+TANLA.NS,50.17,20.71,0.16,2,Technology
+TATACHEM.NS,5.26,2.48,1.21,0,Basic Materials
+TATACOFFEE.NS,11.4,5.43,0.71,0,Consumer Defensive
+TCS.NS,38.17,21.42,1.11,2,Technology
+TATACONSUM.NS,5.16,3.84,0.52,0,Consumer Defensive
+TATAPOWER.NS,7.19,2.88,0.69,0,Utilities
+RAMCOCEM.NS,14.6,6.95,0.29,0,Basic Materials
+THYROCARE.NS,44.96,25.98,2.25,2,Healthcare
+TORNTPOWER.NS,12.78,5.66,2.0,0,Utilities
+ULTRACEMCO.NS,14.66,7.72,0.51,0,Basic Materials
+VGUARD.NS,18.23,10.27,0.45,0,Industrials
+VAKRANGEE.NS,3.28,1.67,0.25,0,Technology
+VALIANTORG.NS,25.11,13.21,0.18,2,Basic Materials
+VTL.NS,18.16,9.74,2.63,0,Consumer Cyclical
+VEDL.NS,20.16,6.66,7.53,1,Basic Materials
+VENKEYS.NS,25.9,13.14,0.68,2,Consumer Defensive
+VOLTAS.NS,12.4,6.01,0.5,0,Industrials
+WELCORP.NS,16.64,4.49,4.2,1,Basic Materials
+WELSPUNIND.NS,20.05,8.34,0.11,0,Consumer Cyclical
+WHIRLPOOL.NS,21.23,4.8,0.22,0,Consumer Cyclical
+WIPRO.NS,19.63,9.15,0.16,0,Technology
+ZENSARTECH.NS,13.69,9.07,1.01,0,Technology
+ECLERX.NS,23.88,15.73,0.05,2,Technology
