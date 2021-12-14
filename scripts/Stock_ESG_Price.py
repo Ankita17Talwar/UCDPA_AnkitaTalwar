@@ -17,7 +17,7 @@ class ImportData:
     def __init__(self, abs_file_name=None):
 
         if abs_file_name is None:
-            self.file_name = '../dataset/orig_ind_nifty5list.csv'
+            self.file_name = '../dataset/orig_ind_nifty500list.csv'
         else:
             self.file_name = abs_file_name
 
@@ -134,7 +134,6 @@ class ImportData:
 
         # Store result in csv for reference
         self.esg_df.to_csv('../output_files/out_esg_info/Stocks_ESG_data.csv')
-
         #######
 
         self.stock_info.to_csv('../output_files/out_esg_info/Stock_Info_yFin_Data.csv')
