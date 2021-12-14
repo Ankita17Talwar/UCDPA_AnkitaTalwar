@@ -6,7 +6,7 @@ import os
 #################################################################################
 # Load stock Symbols : we use equity.csv (list of active stocks listed on BSE)
 ################################################################################
-stock_data = pd.read_csv('../dataset/testEquity.csv')
+stock_data = pd.read_csv('../dataset/Equity.csv')
 
 print(stock_data.head())
 print(stock_data.shape)  # (4230, 10)
